@@ -1,0 +1,32 @@
+VISUALIZAÇÃO DA INFORMAÇÃO
+PROJETO DA DISCIPLINA
+
+O projeto da disciplina consiste em apresentar uma implementação, em Python, da visualização de informações presentes em um dataset usando ao menos três técnicas estudadas na disciplina.
+
+Requisitos:
+• O dataset deve trazer dados reais.
+• As visualizações devem ser adequadas à natureza dos dados e todas devem ser relacionadas entre si, já que se referem a partes do mesmo dataset.
+• Deve ser escolhida ao menos uma técnica (mínimo três) de cada uma das cinco unidades da disciplina (relembradas a seguir)
+
+Visualização da Informação
+1. Visualização com Gráficos da Estatística Descritiva
+  1.1. Barras
+  1.2. Setores
+2. Visualização de Informação Temporal
+  2.1. Gantt
+  2.2. Linhas
+3. Visualização de Informação Geográfica
+  3.1 Choropleths
+4. Visualização de Informação Hierárquica
+  4.1. Árvores
+    4.1.1. Árvores Node-Link
+    4.1.2. Árvores Radiais
+    4.1.3. Hypertrees
+  4.2. Treemaps
+    4.1.1. Treemaps Retangulares
+    4.1.2. Treemaps Circulares
+  4.3. Sunburst
+  4.4. Estalactites
+5. Visualização de Redes e Grafos
+  5.1. Grafos node-link
+  5.2. Diagrama de Cordas
